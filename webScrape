@@ -1,0 +1,22 @@
+#This is from https://www.geeksforgeeks.org/performing-google-search-using-python-code/
+#modified it to find all the URLs of spots.augusta.edu 29 OCT 2022.
+
+
+#function for later use.
+def goodQuery():
+    try:
+        from googlesearch import search
+    except ImportError:
+        print("No module named 'google' found")
+
+
+    # to search
+    query = "https://www.gamestop.com"
+
+
+    for j in search(query, tld="co.in", num=1000, start=1, stop=1000):
+        print(j)
+
+
+if __name__=='__main__':
+    goodQuery()
