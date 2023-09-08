@@ -11,3 +11,4 @@ def triangle(base, character):
         
     print(f"height: " , count )
 triangle(3,"X")
+
