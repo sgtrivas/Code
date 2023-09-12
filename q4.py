@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+def mode(a_sequence):
+    """
+    Returns the most occurences in a sequence
+    """
+    return sorted(a_sequence, key=a_sequence.count)[-1]
+
+
+
+print(mode("AAAABBCCCCCCCDDDDDDDDCCDBCDBCBDCBCCAAAAACDBCDBABCBDBABCBDBBDBDBCBCBCBCBCBABABABABBDBDBDBDBCBCBCBCBABABABBDBDBDBDBDBCBCBCBCBCBCBABABAAAAABCBBCDDDDDBCCCBDDDDDDDDBCBAAAABCCBBBBBDDDBDBBCBC"))
