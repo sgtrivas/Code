@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
-def your_function(n, m):
+def boxy(n,m):
     print('*' * m)
-    for i in range(n - 2):
-        print('*' + (m - 2) * ' ' + '*')
+    for item in range(n-2):
+        print('*' + (m-2)* ' ' + '*')
     print('*' * m)
-your_function(4, 5)
+
+n = int(input("How tall you want the box to be: "))
+m = int(input("How wide do you want the box to be: "))
+boxy(n,m)
