@@ -1,8 +1,8 @@
 #!/bin/usr/env python3
 
-usrVal = input("enter binary value to convert: ")
+usrVal = '110010'
 binVal = int(usrVal, 2)
 hexVal = hex(int(binVal))
 
 #ascVal = chr()
-print(f"Base10: {binVal}, Hex: {hexVal}") 
+print(f"Binary Value:\n{usrVal}\nBase10: {binVal},Hex: {hexVal}") 
