@@ -24,7 +24,7 @@ def day_of_year(year, month, day):
        return None
    if month > 12 or month < 1:
        return None
-   if day > 31 or day < 1:
+   if day >days_in_month(year,month) or day < 1:
        return None
        
     #  Calculate days
