@@ -31,6 +31,6 @@ async def scrape_telegram_channel(api_id, api_hash, channel_username):
         writer.writerow([post, subscriber_count, is_active])
 
 # Example usage (replace with your API credentials and channel username)
-api_id = 23156411  # Replace with your API ID
-api_hash = 'a0da04294701b1cfa791a150a75021d5' 
+api_id =   # Replace with your API ID
+api_hash = '' 
 channel_username = 'linuxgram'
