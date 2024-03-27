@@ -1,13 +1,13 @@
 from telethon import TelegramClient as tc
 
     #  Api ID and Hash for Pixel 7a
-api_id = 23156411
-api_hash = 'a0da04294701b1cfa791a150a75021d5'
+api_id = 
+api_hash = ''
 client = tc('Jim Smith', api_id, api_hash)
     
 #  phone just in case its requested 
-#  phone = +15409401653
-#  bot_token = '7106761472:AAGlT5UR4OkN4rCIvzr1b1Ub8g144qBzMzI'
+#  phone = +1
+#  bot_token = ''
 
 async def main():
     me = await client.get_me()
