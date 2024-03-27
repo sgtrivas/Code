@@ -1,5 +1,4 @@
 #  https://t.me/qawedfqwefawsdfqwefqw3ef_bot
-#  7106761472:AAGlT5UR4OkN4rCIvzr1b1Ub8g144qBzMzI
 
 import csv
 from telethon.sync import TelegramClient
@@ -7,7 +6,7 @@ from telethon.sync import TelegramClient
 # Replace with your own API credentials
 api_id = 23156411
 api_hash = 'a0da04294701b1cfa791a150a75021d5'
-bot_token = '7106761472:AAGlT5UR4OkN4rCIvzr1b1Ub8g144qBzMzI'
+bot_token = ''
 
 # Initialize the Telegram client
 client = TelegramClient('my_session', api_id, api_hash).start(bot_token=bot_token)
