@@ -30,5 +30,6 @@ p.feed(xhtml)
 #pprint(p.tables)
 
 dtable = pd.DataFrame(p.tables[0])
-
 print(dtable)
+
+dtable.to_csv('telemetrio.csv',index=False)
