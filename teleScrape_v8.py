@@ -1,6 +1,10 @@
-#import urllib.request
+''' Modules needed:
+    html-table-parser-python3
+    bs4
+    requests
+    All others should be installed.'''
+
 import requests as req
-#from pprint import pprint
 from html_table_parser.parser import HTMLTableParser
 import pandas as pd
 from bs4 import BeautifulSoup
