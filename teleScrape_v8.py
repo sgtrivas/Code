@@ -90,4 +90,4 @@ dtable.rename(columns=column_dict,inplace=True)
 dtable.insert(9, "Channel Link", ans, True)
 
 print(dtable)
-dtable.to_csv('~/telemeterio.csv',index=None,header=True, mode='a')
+dtable.to_csv(f'~/{now}_telemeterio.csv',index=None,header=True, mode='a')
