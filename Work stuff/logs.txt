@@ -1,0 +1,78 @@
+ 2023-12-07 19:14:52,126 - WARNING - About to enter function
+ 2023-12-07 19:14:52,126 - WARNING - i is: 1
+ 2023-12-07 19:14:52,126 - WARNING - i is: 2
+ 2023-12-07 19:14:52,126 - WARNING - i is: 3
+ 2023-12-07 19:14:52,126 - WARNING - i is: 4
+ 2023-12-07 19:14:52,126 - WARNING - i is: 5
+ 2023-12-07 19:14:52,126 - WARNING - i is: 6
+ 2023-12-07 19:14:52,126 - WARNING - i is: 7
+ 2023-12-07 19:14:52,126 - WARNING - i is: 8
+ 2023-12-07 19:14:52,126 - WARNING - i is: 9
+ 2023-12-07 19:14:52,126 - WARNING - i is: 10
+ 2023-12-07 19:14:52,126 - WARNING - End of function
+
+ 2023-12-07 19:14:58,033 - WARNING - About to enter function
+ 2023-12-07 19:14:58,033 - WARNING - i is: 1
+ 2023-12-07 19:14:58,033 - WARNING - i is: 2
+ 2023-12-07 19:14:58,034 - WARNING - i is: 3
+ 2023-12-07 19:14:58,034 - WARNING - i is: 4
+ 2023-12-07 19:14:58,034 - WARNING - i is: 5
+ 2023-12-07 19:14:58,034 - WARNING - i is: 6
+ 2023-12-07 19:14:58,034 - WARNING - i is: 7
+ 2023-12-07 19:14:58,034 - WARNING - i is: 8
+ 2023-12-07 19:14:58,034 - WARNING - i is: 9
+ 2023-12-07 19:14:58,034 - WARNING - i is: 10
+ 2023-12-07 19:14:58,034 - WARNING - End of function
+
+ 2023-12-07 19:14:59,840 - WARNING - About to enter function
+ 2023-12-07 19:14:59,840 - WARNING - i is: 1
+ 2023-12-07 19:14:59,840 - WARNING - i is: 2
+ 2023-12-07 19:14:59,840 - WARNING - i is: 3
+ 2023-12-07 19:14:59,840 - WARNING - i is: 4
+ 2023-12-07 19:14:59,840 - WARNING - i is: 5
+ 2023-12-07 19:14:59,840 - WARNING - i is: 6
+ 2023-12-07 19:14:59,840 - WARNING - i is: 7
+ 2023-12-07 19:14:59,840 - WARNING - i is: 8
+ 2023-12-07 19:14:59,840 - WARNING - i is: 9
+ 2023-12-07 19:14:59,840 - WARNING - i is: 10
+ 2023-12-07 19:14:59,840 - WARNING - End of function
+
+ 2023-12-07 19:15:00,766 - WARNING - About to enter function
+ 2023-12-07 19:15:00,766 - WARNING - i is: 1
+ 2023-12-07 19:15:00,766 - WARNING - i is: 2
+ 2023-12-07 19:15:00,766 - WARNING - i is: 3
+ 2023-12-07 19:15:00,766 - WARNING - i is: 4
+ 2023-12-07 19:15:00,766 - WARNING - i is: 5
+ 2023-12-07 19:15:00,766 - WARNING - i is: 6
+ 2023-12-07 19:15:00,766 - WARNING - i is: 7
+ 2023-12-07 19:15:00,766 - WARNING - i is: 8
+ 2023-12-07 19:15:00,766 - WARNING - i is: 9
+ 2023-12-07 19:15:00,766 - WARNING - i is: 10
+ 2023-12-07 19:15:00,766 - WARNING - End of function
+
+ 2023-12-07 19:21:41,967 - ERROR - ZeroDivisionError
+Traceback (most recent call last):
+  File "c:\Users\ssgnr\Documents\Python\07 examples.py", line 20, in <module>
+    x = 1/0
+        ~^~
+ZeroDivisionError: division by zero
+ 2023-12-07 19:22:26,160 - ERROR - ZeroDivisionError - 07 examples.py
+Traceback (most recent call last):
+  File "c:\Users\ssgnr\Documents\Python\07 examples.py", line 20, in <module>
+    x = 1/0
+        ~^~
+ZeroDivisionError: division by zero
+ 2023-12-07 19:22:54,157 - ERROR - ZeroDivisionError
+ - 07 examples.py
+Traceback (most recent call last):
+  File "c:\Users\ssgnr\Documents\Python\07 examples.py", line 20, in <module>
+    x = 1/0
+        ~^~
+ZeroDivisionError: division by zero
+ 2023-12-07 19:24:08,397 - ERROR - ZeroDivisionError - 07 examples.py
+Traceback (most recent call last):
+  File "c:\Users\ssgnr\Documents\Python\07 examples.py", line 20, in <module>
+    x = 1/0
+        ~^~
+ZeroDivisionError: division by zero
+

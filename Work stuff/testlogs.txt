@@ -1,0 +1,2 @@
+2023-12-07 19:40:27,889 - __main__ - INFO - test the custom logger
+2023-12-07 19:41:26,239 - __main__ - INFO - test the custom logger
